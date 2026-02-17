@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T05:04:32.805652+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-02-18T05:51:43.473598+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时51分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 05时51分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 05时51分]"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -73,8 +73,91 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 05时51分]"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时07分 ~ 05时04分]"
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
+          "url": "https://flash.jin10.com/detail/20260218043655588800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "美国副总统万斯：降低利率是总统特朗普议程的关键部分。 更低的利率有助于改善住房的经适性。",
+          "url": "https://wallstreetcn.com/livenews/3056115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
+          "url": "https://wallstreetcn.com/livenews/3056114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
+          "url": "https://wallstreetcn.com/livenews/3056110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260218042000423800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "美国副总统万斯：总统特朗普在伊朗问题上有很多选择。",
+          "url": "https://wallstreetcn.com/livenews/3056109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
         },
         {
           "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
@@ -86,28 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "美国副总统万斯：特朗普在伊朗问题上有很多选择。",
-          "url": "https://flash.jin10.com/detail/20260218043655588800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -127,31 +188,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
         {
-          "title": "美国副总统万斯：降低利率是总统特朗普议程的关键部分。 更低的利率有助于改善住房的经适性。",
-          "url": "https://wallstreetcn.com/livenews/3056115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美国总统特朗普：宣布关于得州、俄亥俄州、以及佐治亚州的项目。 得州项目包括石油和天然其的战略领域。 佐治亚州项目与关键矿物有关。",
-          "url": "https://wallstreetcn.com/livenews/3056114",
-          "source": "华尔街见闻-快讯",
+          "title": "美国移民法官终止了美国总统特朗普政府针对哥伦比亚大学学生穆赫辛·马赫达维启动的驱逐程序。",
+          "url": "https://flash.jin10.com/detail/20260218045923237800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "05时51分"
         },
         {
           "title": "特朗普关税引发损失，企业加大货币对冲力度",
@@ -187,17 +237,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
-          "url": "https://wallstreetcn.com/livenews/3056110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
           "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
           "url": "https://flash.jin10.com/detail/20260218021023992800",
           "source": "金十数据",
@@ -207,28 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20260218042000423800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "美国副总统万斯：总统特朗普在伊朗问题上有很多选择。",
-          "url": "https://wallstreetcn.com/livenews/3056109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
@@ -248,7 +265,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -270,9 +287,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "特朗普：美日贸易协议已正式启动 日本对美首批投资计划将涵盖三大战略项目",
+          "url": "https://flash.jin10.com/detail/20260218043007197800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
@@ -289,7 +317,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -299,8 +327,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 05时51分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -311,8 +339,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 05时51分]"
         },
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -322,8 +350,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时51分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -395,6 +423,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "据NBC新闻：美国官员表示，伊朗称将在两周内带来“详细提案，以解决我们立场中的一些开放性差距。”",
+          "url": "https://flash.jin10.com/detail/20260218050959244800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
           "title": "伊朗外长：伊方坚持走和平核能发展道路",
           "url": "https://wallstreetcn.com/livenews/3056031",
           "source": "华尔街见闻-快讯",
@@ -434,7 +473,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -486,7 +525,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -496,30 +535,52 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 05时51分]"
         },
         {
-          "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056127",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260218052500000800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "05时51分"
         },
         {
-          "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3056121",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年02月17日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260218052455449800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "05时51分"
+        },
+        {
+          "title": "美股大类资产类ETF多数下跌，黄金ETF收跌超3.1%，地产ETF涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3056137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -530,8 +591,54 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 05时51分]"
+        },
+        {
+          "title": "凯撒娱乐（CZR）美股盘后涨超3%。 该公司四季度同店净营收29.2亿美元，分析师预期28.9亿美元。 四季度同店调整后EBITDA为9.01亿美元，分析师预期9.001亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "日用品ETF收跌超1.4%，领跌美股行业ETF，标普能源板块跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3056131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
+          "url": "https://flash.jin10.com/detail/20260218050249906800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
@@ -569,59 +676,20 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
         {
-          "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
-          "url": "https://wallstreetcn.com/livenews/3056112",
+          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
+          "url": "https://wallstreetcn.com/livenews/3056132",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "05时51分"
         },
-        {
-          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3056044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
-          "url": "https://wallstreetcn.com/livenews/3056104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
-          "url": "https://wallstreetcn.com/livenews/3056066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
         {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
           "url": "https://wallstreetcn.com/livenews/3056053",
@@ -651,9 +719,60 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周二（2月17日）纽约尾盘，ICE美元指数涨0.25%，报97.161点，整体处于上涨状态，北京时间20:00-02:00出现——波冲高回落行情23:42达到97.546点。 彭博美元指数涨0.05%，报1183.53点，日内交投区间为1182.91-1187.83点。",
+          "url": "https://wallstreetcn.com/livenews/3056112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时51分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（2月17日），南非富时/JSE非洲领先40可交易指数收跌1.40%，至11.14万点下方。 现货黄金跌超2.5%，持稳于北京时间22:01刷新的日低4843.51美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3056044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "新兴市场ETFs连续第17周获得资金流入。 2月13日当周，在美上市新兴市场ETFs流入40亿美元，较之前一周11亿美元的规模显著增长。 2026年迄今，明晟公司MSCI新兴市场股票指数已经累计上涨超过10%。",
+          "url": "https://wallstreetcn.com/livenews/3056104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
+          "url": "https://wallstreetcn.com/livenews/3056066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         }
       ]
     },
@@ -669,8 +788,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 05时51分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -679,11 +798,12 @@
           "ranks": [
             27,
             28,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时51分]"
         }
       ]
     }
