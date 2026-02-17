@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:55:19.880613+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-02-17T16:57:43.612752+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 15时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 16时57分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -58,6 +58,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时55分 ~ 05时37分]"
+        },
+        {
+          "title": "特朗普与马里兰州州长就管道破裂和污水泄漏的应对措施发生冲突",
+          "url": "https://flash.jin10.com/detail/20260217164530562800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
@@ -279,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
@@ -307,8 +329,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 15时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 16时57分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 16时57分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -333,19 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时55分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -473,7 +496,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -527,6 +550,17 @@
           "time_info": "[05时37分 ~ 06时37分]"
         },
         {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "OpenAI：系统已恢复全面运作。",
           "url": "https://flash.jin10.com/detail/20260217052259501800",
           "source": "金十数据",
@@ -541,7 +575,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -551,11 +585,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 15时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 16时57分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -569,8 +604,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 15时55分]"
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 16时57分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -583,6 +618,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时44分]"
+        },
+        {
+          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
+          "url": "https://flash.jin10.com/detail/20260217160309287800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
@@ -596,11 +642,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时44分 ~ 15时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时44分 ~ 16时57分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
