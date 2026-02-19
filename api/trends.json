@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T04:41:00.612995+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-02-20T05:40:57.718257+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
@@ -13,11 +13,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时46分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
+          "url": "https://wallstreetcn.com/livenews/3056780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -33,38 +45,17 @@
           "time_info": "[03时01分 ~ 04时41分]"
         },
         {
-          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
-          "url": "https://flash.jin10.com/detail/20260220034308215800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
-          "url": "https://wallstreetcn.com/livenews/3056754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
           "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
           "url": "https://flash.jin10.com/detail/20260220034153793800",
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时46分 ~ 05时40分]"
         },
         {
           "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
@@ -72,11 +63,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时46分 ~ 04时41分]"
+          "appearance_count": 3,
+          "time_info": "[03时46分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
+          "url": "https://flash.jin10.com/detail/20260220034054475800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时46分 ~ 05时40分]"
         },
         {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
@@ -92,16 +97,28 @@
           "time_info": "[03时01分 ~ 04时41分]"
         },
         {
-          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
-          "url": "https://flash.jin10.com/detail/20260220034054475800",
+          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
+          "url": "https://flash.jin10.com/detail/20260220034308215800",
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时46分 ~ 04时41分]"
+          "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
+          "url": "https://wallstreetcn.com/livenews/3056754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -207,6 +224,18 @@
           "time_info": "[01时04分 ~ 03时01分]"
         },
         {
+          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
+          "url": "https://wallstreetcn.com/livenews/3056746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
           "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
           "url": "https://flash.jin10.com/detail/20260220030505008800",
           "source": "金十数据",
@@ -231,15 +260,48 @@
           "time_info": "[03时01分 ~ 03时46分]"
         },
         {
-          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
-          "url": "https://wallstreetcn.com/livenews/3056746",
-          "source": "华尔街见闻-快讯",
+          "title": "据AXIOS网站：特朗普在加沙问题和平委员会首次会议上承诺投入100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260220045423529800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时41分"
+          "time_info": "05时40分"
+        },
+        {
+          "title": "特朗普：计划在必要时利用冗长辩论来推动“拯救美国法案”在美国国会获得通过。",
+          "url": "https://flash.jin10.com/detail/20260220042253309800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "美国众议院民主党成员们要求调查总统特朗普家族的加密货币公司。 向特朗普的财政部长贝森特询问有关World Liberty财务问题。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3056763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
+          "url": "https://flash.jin10.com/detail/20260220042215481800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -275,6 +337,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "特朗普：法案将要求所有选民出示选民身份证，所有选民必须出示公民身份证明才能投票，并规定不接受邮寄选票。",
+          "url": "https://flash.jin10.com/detail/20260220041552319800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "特朗普政府计划取消“混合身份家庭”的住房补贴",
           "url": "https://wallstreetcn.com/livenews/3056700",
           "source": "华尔街见闻-快讯",
@@ -284,6 +357,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普：无论如何，我们都会通过《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260220041454236800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "美国白宫经济顾问委员会代理主席Yared：投资推动供给侧增长。 无法从美国纽约联储的研究中推断出（总统特朗普挑起的）关税由谁承担。 对纽约联储研究结果的批评并非对美联储独立性的攻击。",
+          "url": "https://wallstreetcn.com/livenews/3056759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
@@ -344,7 +439,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -354,8 +449,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -366,8 +461,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -379,8 +474,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -392,8 +487,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
@@ -405,8 +500,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
@@ -416,8 +511,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "美以或对伊朗发动大规模袭击",
@@ -426,11 +521,12 @@
           "ranks": [
             17,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "伊朗",
@@ -443,8 +539,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "美国被曝最早本周末攻打伊朗",
@@ -452,22 +548,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时45分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时45分 ~ 05时40分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
           "url": "https://www.douyin.com/hot/2405773",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 01时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时40分]"
+        },
+        {
+          "title": "英方担忧违反国际法 尚未授权美国使用其基地打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3056765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "金十整理：美牵头注资百亿、将部署多国部队、再次警告伊朗......“和平委员会”首次会议要点一览",
@@ -484,7 +593,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -494,8 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -503,11 +612,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -518,8 +628,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -530,19 +640,64 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260220050552220800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260220050543287800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "美股三大股指均收跌",
+          "url": "https://flash.jin10.com/detail/20260220050222862800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "航空业ETF收跌将近4%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3056775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -611,8 +766,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时40分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -660,6 +815,23 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10年期美债收益率跌约1个基点，投资者关注地缘政治风险",
+          "url": "https://wallstreetcn.com/livenews/3056762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -668,11 +840,12 @@
           "url": "https://wallstreetcn.com/livenews/3056755",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 05时40分]"
         }
       ]
     }
