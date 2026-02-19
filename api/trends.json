@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:56:11.188685+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-02-19T23:58:07.840730+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 79,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -69,9 +69,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普支持的天然气项目令竞争对手因风险而战栗",
+          "url": "https://wallstreetcn.com/livenews/3056692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
@@ -91,9 +102,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普：如果没有和伊朗达成协议，将会发生糟糕的事情",
+          "url": "https://flash.jin10.com/detail/20260219233551357800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
@@ -105,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "特朗普声称，他的和平委员会将“监督”联合国",
+          "url": "https://wallstreetcn.com/livenews/3056690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
@@ -306,6 +339,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
+          "url": "https://wallstreetcn.com/livenews/3056683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国总统特朗普：我一直告诉英国首相斯塔默，就国家而言，租约毫无用处。",
           "url": "https://flash.jin10.com/detail/20260219024522146800",
           "source": "金十数据",
@@ -323,7 +367,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -356,7 +400,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -405,6 +449,28 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普称，挪威已同意主办和平委员会活动",
+          "url": "https://flash.jin10.com/detail/20260219232627238800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：我才不在乎诺贝尔奖。",
+          "url": "https://wallstreetcn.com/livenews/3056680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "特朗普的加沙和平计划恐陷入僵局 哈马斯是否放下武器成为焦点",
           "url": "https://flash.jin10.com/detail/20260219205124822800",
           "source": "金十数据",
@@ -414,6 +480,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
+        },
+        {
+          "title": "特朗普称加沙地带有“小火苗” 哈马斯将会放下武器",
+          "url": "https://flash.jin10.com/detail/20260219232428917800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：美国将向“和平委员会”提供100亿美元。 挪威将主办一场关于“和平委员会”的活动。",
+          "url": "https://wallstreetcn.com/livenews/3056679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
@@ -449,6 +537,39 @@
           "time_info": "21时23分"
         },
         {
+          "title": "美国总统特朗普：和平委员会将监督联合国。",
+          "url": "https://flash.jin10.com/detail/20260219232201749800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：必须解决黎巴嫩的问题。 联合国为支持加沙而募集20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：将确保联合国具有可行性。",
+          "url": "https://flash.jin10.com/detail/20260219232150771800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国白宫：外交是美国总统特朗普的首选方案。",
           "url": "https://flash.jin10.com/detail/20260219024156843800",
           "source": "金十数据",
@@ -482,6 +603,17 @@
           "time_info": "14时10分"
         },
         {
+          "title": "美国总统特朗普：联合国确实拥有巨大的潜力。",
+          "url": "https://flash.jin10.com/detail/20260219232103100800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
           "url": "https://flash.jin10.com/detail/20260219044503887800",
           "source": "金十数据",
@@ -504,6 +636,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "美国总统特朗普：美国将为和平委员会出资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219231948694800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国总统特朗普：我们可以关照大西洋。",
           "url": "https://wallstreetcn.com/livenews/3056475",
           "source": "华尔街见闻-快讯",
@@ -513,6 +656,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美国总统特朗普：必须与伊朗达成一份具有实质性意义的协议。 伊朗不可以拥有核武器。 我们与伊朗还需付出努力。 或许十天能了解中东和平状况。 认为哈马斯会放弃武装，否则他们将遭到严厉袭击。",
+          "url": "https://wallstreetcn.com/livenews/3056674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：是伊朗加入我们、共同完成各项努力的时候了。",
+          "url": "https://flash.jin10.com/detail/20260219231927514800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
@@ -526,6 +691,17 @@
           "time_info": "21时23分"
         },
         {
+          "title": "美国总统特朗普：伊朗必须达成协议，否则将发生糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260219231852587800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
           "url": "https://flash.jin10.com/detail/20260219043351935800",
           "source": "金十数据",
@@ -535,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "特朗普称俄乌冲突难以解决",
+          "url": "https://flash.jin10.com/detail/20260219231831770800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国总统特朗普：（正在白宫旧址上拔地而起的）将是“有史以来最宏伟的宴会厅”——完全由美国爱国者捐助者出资，美国纳税人零成本！",
@@ -559,6 +746,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "美国总统特朗普：越南非常棒。",
+          "url": "https://wallstreetcn.com/livenews/3056669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
           "url": "https://flash.jin10.com/detail/20260219184006351800",
           "source": "金十数据",
@@ -568,6 +766,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "美国总统特朗普：联合国人道主义援助办公室正筹集20亿美元用于支持加沙。",
+          "url": "https://flash.jin10.com/detail/20260219231537395800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：国际足联将帮助为加沙的足球相关项目筹集7500万美元。",
+          "url": "https://flash.jin10.com/detail/20260219231532294800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "市场消息：美国法官推翻移民上诉委员会支持特朗普政府大规模拘留政策的裁决。",
@@ -581,6 +801,17 @@
           "time_info": "10时47分"
         },
         {
+          "title": "美国总统特朗普表示他不在乎诺贝尔奖。",
+          "url": "https://flash.jin10.com/detail/20260219231505260800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国总统特朗普兜售股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3056468",
           "source": "华尔街见闻-快讯",
@@ -592,6 +823,28 @@
           "time_info": "05时42分"
         },
         {
+          "title": "美国总统特朗普：挪威已同意主办和平委员会活动。",
+          "url": "https://flash.jin10.com/detail/20260219231331547800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：全世界都在等着哈马斯，它是唯一阻碍我们前进的因素。",
+          "url": "https://flash.jin10.com/detail/20260219231311773800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
           "url": "https://wallstreetcn.com/livenews/3056466",
           "source": "华尔街见闻-快讯",
@@ -601,12 +854,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美国总统特朗普：必须解决与黎巴嫩的问题。",
+          "url": "https://flash.jin10.com/detail/20260219231300377800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：我认为没有必要派士兵去加沙作战。",
+          "url": "https://flash.jin10.com/detail/20260219231156454800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美国总统特朗普：加沙不再是激进主义和恐怖主义的温床。",
+          "url": "https://flash.jin10.com/detail/20260219231149143800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -620,8 +906,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时47分 ~ 22时56分]"
+          "appearance_count": 16,
+          "time_info": "[10时47分 ~ 23时58分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -636,8 +922,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时59分 ~ 22时56分]"
+          "appearance_count": 15,
+          "time_info": "[12时59分 ~ 23时58分]"
         },
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -650,6 +936,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时15分 ~ 07时38分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.douyin.com/hot/2405773",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16,
+            1,
+            14,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时55分 ~ 23时58分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -668,6 +970,51 @@
           "time_info": "[00时00分 ~ 14时10分]"
         },
         {
+          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291663",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时55分 ~ 23时58分]"
+        },
+        {
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时55分 ~ 23时58分]"
+        },
+        {
+          "title": "美以或对伊朗发动大规模袭击",
+          "url": "https://www.douyin.com/hot/2405517",
+          "source": "抖音",
+          "ranks": [
+            8,
+            13,
+            9,
+            14,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时54分 ~ 23时58分]"
+        },
+        {
           "title": "伊朗与俄罗斯将举行海上联合军演",
           "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
           "source": "澎湃新闻",
@@ -681,34 +1028,20 @@
           "time_info": "[00时00分 ~ 16时56分]"
         },
         {
-          "title": "美以或对伊朗发动大规模袭击",
-          "url": "https://www.douyin.com/hot/2405517",
-          "source": "抖音",
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            13,
-            9,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时54分 ~ 22时56分]"
-        },
-        {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.douyin.com/hot/2405773",
-          "source": "抖音",
-          "ranks": [
-            15,
+            18,
             16,
-            1,
-            14,
-            22
+            15,
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时55分 ~ 22时56分]"
+          "appearance_count": 10,
+          "time_info": "[16时55分 ~ 23时58分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -727,47 +1060,17 @@
           "time_info": "[15时54分 ~ 22时56分]"
         },
         {
-          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291663",
-          "source": "财联社热门",
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时55分 ~ 22时56分]"
-        },
-        {
-          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时55分 ~ 22时56分]"
-        },
-        {
-          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
             12,
-            10
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时55分 ~ 22时56分]"
+          "appearance_count": 7,
+          "time_info": "[18时57分 ~ 23时58分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -819,19 +1122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 22时56分]"
         },
         {
           "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
@@ -1019,6 +1309,17 @@
           "time_info": "[17时58分 ~ 18时57分]"
         },
         {
+          "title": "伊朗总统说不屈服于美国胁迫",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AF%B4%E4%B8%8D%E5%B1%88%E6%9C%8D%E4%BA%8E%E7%BE%8E%E5%9B%BD%E8%83%81%E8%BF%AB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
+        },
+        {
           "title": "俄外长警告美若打击伊朗后果严重",
           "url": "https://www.toutiao.com/trending/7608026768025157678/",
           "source": "今日头条",
@@ -1063,6 +1364,17 @@
           "time_info": "15时54分"
         },
         {
+          "title": "佩斯科夫：俄方将继续发展与伊朗的关系",
+          "url": "https://flash.jin10.com/detail/20260219233156198800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国务院称对18名伊朗人实施签证限制措施",
           "url": "https://wallstreetcn.com/livenews/3056522",
           "source": "华尔街见闻-快讯",
@@ -1072,6 +1384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”",
+          "url": "https://flash.jin10.com/detail/20260219232651189800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
@@ -1105,6 +1428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "内塔尼亚胡警告伊朗：以色列“已为任何情况做好准备”",
+          "url": "https://wallstreetcn.com/livenews/3056684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
@@ -1184,6 +1518,17 @@
           "time_info": "21时23分"
         },
         {
+          "title": "伊朗总统：不会屈服于美国胁迫",
+          "url": "https://wallstreetcn.com/livenews/3056670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
           "url": "https://flash.jin10.com/detail/20260219125907757800",
           "source": "金十数据",
@@ -1228,13 +1573,24 @@
           "time_info": "17时58分"
         },
         {
+          "title": "佩斯科夫：俄方将继续发展与伊朗的关系",
+          "url": "https://wallstreetcn.com/livenews/3056688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：如果伊朗攻击以色列，将面临其无法想象的反击。",
           "url": "https://flash.jin10.com/detail/20260219222324602800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         }
@@ -1242,7 +1598,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1277,8 +1633,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时41分 ~ 22时56分]"
+          "appearance_count": 19,
+          "time_info": "[06时41分 ~ 23时58分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -1306,8 +1662,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时00分 ~ 22时56分]"
+          "appearance_count": 28,
+          "time_info": "[00时00分 ~ 23时58分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1319,8 +1675,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时00分 ~ 22时56分]"
+          "appearance_count": 28,
+          "time_info": "[00时00分 ~ 23时58分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1331,11 +1687,12 @@
             11,
             10,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时00分 ~ 22时56分]"
+          "appearance_count": 28,
+          "time_info": "[00时00分 ~ 23时58分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1347,8 +1704,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时54分 ~ 22时56分]"
+          "appearance_count": 11,
+          "time_info": "[15时54分 ~ 23时58分]"
         },
         {
           "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
@@ -1364,37 +1721,15 @@
           "time_info": "[19时46分 ~ 22时56分]"
         },
         {
-          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
-          "url": "https://wallstreetcn.com/livenews/3056664",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "美国机械制造商Deere美股盘初上涨7.8%，创2025年4月以来最大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3056663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "美股盘初：纳指跌近0.5%，特斯拉跌1%因纽约撤回机器人出租车计划",
-          "url": "https://wallstreetcn.com/livenews/3056662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1410,6 +1745,18 @@
           "time_info": "[05时42分 ~ 07时38分]"
         },
         {
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时58分]"
+        },
+        {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260219051836764800",
           "source": "金十数据",
@@ -1422,6 +1769,18 @@
           "time_info": "[05时42分 ~ 06时41分]"
         },
         {
+          "title": "美国机械制造商Deere美股盘初上涨7.8%，创2025年4月以来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3056663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时58分]"
+        },
+        {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260219051816533800",
           "source": "金十数据",
@@ -1432,6 +1791,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "美股盘初：纳指跌近0.5%，特斯拉跌1%因纽约撤回机器人出租车计划",
+          "url": "https://wallstreetcn.com/livenews/3056662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时58分]"
         },
         {
           "title": "DoorDash美股盘前上涨超13%，公司一季度可销售的GOV的预测优于市场预估。",
@@ -1513,7 +1884,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1524,7 +1895,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1579,7 +1950,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1691,8 +2062,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 22时56分]"
+          "appearance_count": 7,
+          "time_info": "[18时57分 ~ 23时58分]"
         },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
@@ -1791,7 +2162,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1875,11 +2246,12 @@
           "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时55分 ~ 22时56分]"
+          "appearance_count": 4,
+          "time_info": "[22时55分 ~ 23时58分]"
         }
       ]
     },
