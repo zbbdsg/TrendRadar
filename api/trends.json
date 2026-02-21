@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T19:29:49.352287+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-02-21T21:04:18.842073+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 152,
+      "match_count": 156,
       "titles": [
         {
           "title": "特朗普全球关税被推翻！美国最高法院裁定违法，超1750亿美元税收面临退款",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时44分 ~ 19时29分]"
+          "appearance_count": 19,
+          "time_info": "[01时44分 ~ 21时04分]"
         },
         {
           "title": "特朗普确认正在考虑对伊朗进行“有限军事打击”",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时35分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 21时04分]"
         },
         {
           "title": "特朗普：将对全球加征10%的进口关税",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 21时04分]"
         },
         {
           "title": "美国最高法院裁定特朗普政府大规模关税政策违法 ，这会带来哪些影响？关税政策会撤回吗？",
@@ -85,20 +85,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时44分 ~ 16时40分]"
-        },
-        {
-          "title": "美国四季度GDP仅增1.4%！政府停摆拖累1个百分点，特朗普提前“开火”鲍威尔",
-          "url": "https://wallstreetcn.com/articles/3765906",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时35分 ~ 19时29分]"
         },
         {
           "title": "美国最高法院裁定特朗普关税政策违法",
@@ -138,6 +124,21 @@
           "time_info": "[00时52分 ~ 13时50分]"
         },
         {
+          "title": "美国四季度GDP仅增1.4%！政府停摆拖累1个百分点，特朗普提前“开火”鲍威尔",
+          "url": "https://wallstreetcn.com/articles/3765906",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[06时35分 ~ 21时04分]"
+        },
+        {
           "title": "特朗普关税政策被裁违法，欧盟、加拿大回应",
           "url": "https://news.ifeng.com/c/8qv0GYUKSa8",
           "source": "凤凰网",
@@ -147,6 +148,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时35分 ~ 16时40分]"
+        },
+        {
+          "title": "得知高院否决关税那一刻，特朗普“气炸了”，“破口大骂”",
+          "url": "https://wallstreetcn.com/articles/3765923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 21时04分]"
         },
         {
           "title": "一觉醒来，世界大变，特朗普改新打法了",
@@ -169,19 +184,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 05时33分]"
-        },
-        {
-          "title": "得知高院否决关税那一刻，特朗普“气炸了”，“破口大骂”",
-          "url": "https://wallstreetcn.com/articles/3765923",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 19时29分]"
         },
         {
           "title": "特朗普签署行政令对全球商品加征10%关税",
@@ -235,8 +237,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 21时04分]"
+        },
+        {
+          "title": "学者：特朗普或遭众叛亲离",
+          "url": "https://news.ifeng.com/c/8qvPCuKv7tH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 21时04分]"
         },
         {
           "title": "特朗普回忆2017年访华经历，赞叹中国仪仗队强大阵容",
@@ -248,17 +261,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 07时36分]"
-        },
-        {
-          "title": "学者：特朗普或遭众叛亲离",
-          "url": "https://news.ifeng.com/c/8qvPCuKv7tH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时38分 ~ 19时29分]"
         },
         {
           "title": "美最高法院裁定特朗普关税违法",
@@ -314,6 +316,20 @@
           "time_info": "[03时41分 ~ 07时36分]"
         },
         {
+          "title": "释新闻｜美最高法院6比3裁定特朗普全球关税违法，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32638670",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 21时04分]"
+        },
+        {
           "title": "金十提示：美国总统特朗普关税新闻发布会结束。",
           "url": "https://flash.jin10.com/detail/20260221030926975800",
           "source": "金十数据",
@@ -340,6 +356,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 06时35分]"
+        },
+        {
+          "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2008503061484631366",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时38分 ~ 21时04分]"
         },
         {
           "title": "摩根大通申请将特朗普的诉讼转移至纽约联邦法院审理",
@@ -383,6 +411,17 @@
           "time_info": "[12时43分 ~ 16时40分]"
         },
         {
+          "title": "美国参议员查克·舒默警告说，特朗普可能会挑起与伊朗的战争，以此“转移人们对一系列国内负面新闻的注意力”。",
+          "url": "https://flash.jin10.com/detail/20260221204238285800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美国总统特朗普在提及美联储主席人选，表示：利率应大幅下调。 无能的美联储主席喜欢高利率。",
           "url": "https://wallstreetcn.com/livenews/3057079",
           "source": "华尔街见闻-快讯",
@@ -406,6 +445,19 @@
           "time_info": "[00时52分 ~ 05时33分]"
         },
         {
+          "title": "特朗普大赞中国仪仗队：士兵连身高都如此一致",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636839",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 21时04分]"
+        },
+        {
           "title": "美国迎来「特朗普关税违法、 PCE 、 GDP」三大超预期时刻，全球贸易和金融市场将会如何变化？",
           "url": "https://www.zhihu.com/question/2008327529652577984",
           "source": "知乎",
@@ -417,17 +469,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时43分 ~ 16时40分]"
-        },
-        {
-          "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2008503061484631366",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 19时29分]"
         },
         {
           "title": "白宫称特朗普3月31日至4月2日访华",
@@ -579,19 +620,6 @@
           "time_info": "[03时41分 ~ 07时36分]"
         },
         {
-          "title": "释新闻｜美最高法院6比3裁定特朗普全球关税违法，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32638670",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时29分]"
-        },
-        {
           "title": "美国总统特朗普：欧洲在能源和移民问题上正被摧毁。",
           "url": "https://flash.jin10.com/detail/20260221030408910800",
           "source": "金十数据",
@@ -683,18 +711,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时35分 ~ 15时38分]"
-        },
-        {
-          "title": "特朗普大赞中国仪仗队：士兵连身高都如此一致",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636839",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时29分]"
         },
         {
           "title": "美国副总统万斯：总统特朗普将动用其他广泛的关税权力。",
@@ -843,6 +859,17 @@
           "time_info": "[04时41分 ~ 05时33分]"
         },
         {
+          "title": "徐立凡：特朗普超级总统时代或将结束",
+          "url": "https://www.toutiao.com/trending/7609238176095276607/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 21时04分]"
+        },
+        {
           "title": "一觉醒来特朗普改新打法了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E6%96%B0%E6%89%93%E6%B3%95%E4%BA%86%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -900,6 +927,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时41分]"
+        },
+        {
+          "title": "加州州长喊话特朗普赶紧还钱",
+          "url": "https://flash.jin10.com/detail/20260221181621299800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时04分]"
         },
         {
           "title": "美国总统特朗普：最高法院的判决让我等了太久。 判决结果揭晓之后，我们获得确定性。 美国将变得更加强大。",
@@ -963,17 +1003,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时36分]"
-        },
-        {
-          "title": "徐立凡：特朗普超级总统时代或将结束",
-          "url": "https://www.toutiao.com/trending/7609238176095276607/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时29分]"
         },
         {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
@@ -1075,8 +1104,8 @@
           "time_info": "[02时59分 ~ 03时41分]"
         },
         {
-          "title": "加州州长喊话特朗普赶紧还钱",
-          "url": "https://flash.jin10.com/detail/20260221181621299800",
+          "title": "欧洲央行管委帕内塔：美国经济承受了特朗普关税的大部分负担",
+          "url": "https://flash.jin10.com/detail/20260221183838278800",
           "source": "金十数据",
           "ranks": [
             7,
@@ -1084,7 +1113,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
+          "time_info": "[19时29分 ~ 21时04分]"
         },
         {
           "title": "美国总统特朗普：在我的要求之下，印度被“拽出”与俄罗斯的合作关系。",
@@ -1279,6 +1308,18 @@
           "time_info": "[02时59分 ~ 03时41分]"
         },
         {
+          "title": "美最高法院裁定特朗普政府大规模关税违法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32637274",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时04分]"
+        },
+        {
           "title": "美国总统特朗普：我们将用新的方式来攫取更多（外国）资金。 将采用替代方案来取代被最高法院否决的关税。 许可证是比关税手段更强大的工具。 法院说我可以发放许可证，但不可以对此收费。 我有权发放许可证（并收费）。 我可以收取比以往更高的费用。 现在，我在一个不同于关税的方向上。 对法院“称我不可以征收关税费用”表示谴责。",
           "url": "https://wallstreetcn.com/livenews/3057065",
           "source": "华尔街见闻-快讯",
@@ -1327,6 +1368,18 @@
           "time_info": "[02时59分 ~ 03时41分]"
         },
         {
+          "title": "特朗普回怼民主党领袖：他是弱智",
+          "url": "https://www.toutiao.com/trending/7608391446346383398/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时04分]"
+        },
+        {
           "title": "美国总统特朗普：最高法院的关税判决极度让人失望。 对最高法院的特定成员感到羞耻，他们缺乏勇气去做正确的事。 对那些（判定关税政策违法）持异议的成员表示感谢，他们真的让人感到骄傲。 最高法院“是愚蠢的”，他们是“走狗”。 在我看来，法院已经动摇了。 关税官司是经济国家安全的象征，对国家安全具有重要意义。 好消息是，还有比IEEPA更好的方法。 对美国占便宜的国家欣喜若狂，他们“在街头载歌载舞”的日子不会太长。",
           "url": "https://wallstreetcn.com/livenews/3057062",
           "source": "华尔街见闻-快讯",
@@ -1350,17 +1403,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "欧洲央行管委帕内塔：美国经济承受了特朗普关税的大部分负担",
-          "url": "https://flash.jin10.com/detail/20260221183838278800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "提醒：美国总统特朗普将于美东时间2月20日12:45（北京时间21日01:45）举行新闻发布会，回应最高法院判决其关税政策违法一事。",
           "url": "https://wallstreetcn.com/livenews/3057028",
           "source": "华尔街见闻-快讯",
@@ -1370,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美最高法院推翻特朗普关税，日本被曝打算咬牙继续落实贸易协议",
+          "url": "https://news.ifeng.com/c/8qvhnjq5970",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "凯投宏观：特朗普政府有多种替代方案推进贸易壁垒",
@@ -1392,6 +1445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-21）",
+          "url": "https://flash.jin10.com/detail/20260221191952713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "特朗普对伊朗发出最新通牒，称打击伊朗“选择范围很广”",
@@ -1425,6 +1489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "美国支持对朝鲜制裁豁免，特朗普向金正恩释放信号？",
+          "url": "https://v.ifeng.com/c/8qvj0HzaSkk",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国总统特朗普：根据IEEPA谈判达成的一些贸易协议站不住脚。部分IEEPA贸易协议依然有效，部分则不然。印度贸易协议没有任何变化。",
@@ -1493,17 +1568,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "特朗普回怼民主党领袖：他是弱智",
-          "url": "https://www.toutiao.com/trending/7608391446346383398/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "美国总统特朗普：不会就关税问题向国会寻求更多授权，而且“我也不需要”。",
           "url": "https://flash.jin10.com/detail/20260221023910749800",
           "source": "金十数据",
@@ -1546,17 +1610,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "美最高法院裁定特朗普政府大规模关税违法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32637274",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         },
         {
           "title": "美国总统特朗普：最高法院并未推翻关税，只是否定了对IEEPA的使用。",
@@ -1848,8 +1901,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时35分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 21时04分]"
         },
         {
           "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
@@ -1881,15 +1934,33 @@
           "time_info": "[01时44分 ~ 07时36分]"
         },
         {
-          "title": "英国外交大臣库珀：很高兴来到华盛顿与美国国务卿鲁比奥进行会谈。我们讨论了乌克兰、加沙、伊朗，以及我们在苏丹寻求人道主义停火的工作，还有在关键矿产方面合作的重要性。英美之间的伙伴关系对我们的安全和繁荣至关重要。",
-          "url": "https://flash.jin10.com/detail/20260221190035741800",
-          "source": "金十数据",
+          "title": "卡塔尔首相与伊朗外长通电话",
+          "url": "https://wallstreetcn.com/livenews/3057175",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2,
+            9,
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 21时04分]"
+        },
+        {
+          "title": "美国伊朗是否会达成协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            12,
+            22,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 21时04分]"
         },
         {
           "title": "联合国：收到伊朗来信 对地区紧张局势深表关切",
@@ -1907,29 +1978,29 @@
           "time_info": "[10时35分 ~ 15时38分]"
         },
         {
-          "title": "卡塔尔首相与伊朗外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3057175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时29分]"
-        },
-        {
           "title": "“谈判陷入僵局”，外媒爆料：伊朗外长拒绝打开美方装有导弹提议的信函，并将其退回",
           "url": "https://wallstreetcn.com/livenews/3057181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 21时04分]"
+        },
+        {
+          "title": "英国外交大臣库珀：很高兴来到华盛顿与美国国务卿鲁比奥进行会谈。我们讨论了乌克兰、加沙、伊朗，以及我们在苏丹寻求人道主义停火的工作，还有在关键矿产方面合作的重要性。英美之间的伙伴关系对我们的安全和繁荣至关重要。",
+          "url": "https://flash.jin10.com/detail/20260221190035741800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时29分]"
+          "time_info": "[19时29分 ~ 21时04分]"
         },
         {
           "title": "伊朗外长：将在2至3天内完成核协议草案的起草工作",
@@ -1944,18 +2015,15 @@
           "time_info": "[00时52分 ~ 01时44分]"
         },
         {
-          "title": "美国伊朗是否会达成协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "伊朗外长拒绝打开美方装有导弹提议的信函，并将其退回",
+          "url": "https://news.ifeng.com/c/8qvb09i2f7O",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            12,
-            22,
-            21
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 19时29分]"
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 21时04分]"
         },
         {
           "title": "据《德黑兰时报》：伊朗海军司令与俄罗斯和沙特海军司令会晤。",
@@ -2018,17 +2086,6 @@
           "time_info": "[06时35分 ~ 07时36分]"
         },
         {
-          "title": "伊朗外长拒绝打开美方装有导弹提议的信函，并将其退回",
-          "url": "https://news.ifeng.com/c/8qvb09i2f7O",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "美军对伊朗的打击可能针对个别领导人",
           "url": "https://flash.jin10.com/detail/20260220233735803800",
           "source": "金十数据",
@@ -2054,8 +2111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时36分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时36分 ~ 21时04分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -2066,8 +2123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时35分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 21时04分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -2076,11 +2133,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时52分 ~ 19时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时52分 ~ 21时04分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -2257,6 +2315,19 @@
           "time_info": "[07时36分 ~ 15时38分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 21时04分]"
+        },
+        {
           "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
           "url": "https://wallstreetcn.com/livenews/3057134",
           "source": "华尔街见闻-快讯",
@@ -2270,18 +2341,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时36分 ~ 14时54分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时29分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -2334,11 +2393,12 @@
             2,
             7,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时35分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时35分 ~ 21时04分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -2374,6 +2434,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价银价大涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 21时04分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -2383,18 +2456,6 @@
             18,
             17,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 19时29分]"
-        },
-        {
-          "title": "金价银价大涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -2429,8 +2490,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时54分 ~ 19时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 21时04分]"
         },
         {
           "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
