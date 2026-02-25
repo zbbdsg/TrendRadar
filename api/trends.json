@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-02-25T07:40:29.201269+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-02-25T11:11:12.290170+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 68,
       "titles": [
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时40分]"
-        },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
           "source": "澎湃新闻",
           "ranks": [
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 11时11分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -50,11 +50,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时40分]"
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 11时11分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -68,6 +69,39 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 11时11分]"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 11时11分]"
+        },
+        {
+          "title": "特朗普走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 11时11分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -95,6 +129,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "特朗普发表国情咨文讲话期间，日元兑美元走强。",
+          "url": "https://wallstreetcn.com/livenews/3058516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
           "url": "https://flash.jin10.com/detail/20260225041158111800",
           "source": "金十数据",
@@ -106,15 +151,59 @@
           "time_info": "04时46分"
         },
         {
+          "title": "美国总统特朗普：关税将在经批准且经过测试的替代性法律条款下继续实施。",
+          "url": "https://flash.jin10.com/detail/20260225110121120800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
           "url": "https://wallstreetcn.com/livenews/3058387",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普：如果我们能揪出足够的欺诈行为，就能实现预算平衡。 副总统将领导这场“反欺诈战争”。",
+          "url": "https://wallstreetcn.com/livenews/3058512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普：宣布新的退休计划。 让美国人更容易为退休储蓄。 每年将对401k退休金计划提供最高1000美元的配套补贴。",
+          "url": "https://wallstreetcn.com/livenews/3058511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普：确保国会议员无法利用内幕信息获利。 （要求）立即通过《禁止内幕交易法案》，不得拖延。",
+          "url": "https://wallstreetcn.com/livenews/3058509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -226,6 +315,39 @@
           "time_info": "[06时41分 ~ 07时40分]"
         },
         {
+          "title": "美国总统特朗普预计，其他各方将继续沿着最高法院介入之前商定的路线前进。",
+          "url": "https://flash.jin10.com/detail/20260225105940018800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普呼吁国会禁止投资公司购买住宅。",
+          "url": "https://wallstreetcn.com/livenews/3058508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：正式宣布由美国副总统万斯领导反欺诈战争。",
+          "url": "https://flash.jin10.com/detail/20260225105919820800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
           "url": "https://wallstreetcn.com/livenews/3058233",
           "source": "华尔街见闻-快讯",
@@ -235,6 +357,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "特朗普：告知大型科技公司，他们要自备电力。 旧电网无法满足所需电力需求。",
+          "url": "https://wallstreetcn.com/livenews/3058507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：应立即通过《禁止内幕交易法案》。",
+          "url": "https://flash.jin10.com/detail/20260225105857640800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
@@ -259,6 +403,50 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普：结束处方药价格膨胀。",
+          "url": "https://wallstreetcn.com/livenews/3058503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：其他各方之所以乐于坚持贸易协议，是因为知道我有法律权力达成对他们“更加不利”的新协议。",
+          "url": "https://flash.jin10.com/detail/20260225105835677800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：确保国会议员不能利用内部信息牟利。",
+          "url": "https://flash.jin10.com/detail/20260225105750098800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普：牛肉价格开始大幅下跌。 我们正在把牛肉价格降下来，大家再稍微等一等。",
+          "url": "https://wallstreetcn.com/livenews/3058500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
           "url": "https://flash.jin10.com/detail/20260224233707666800",
           "source": "金十数据",
@@ -270,6 +458,28 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普发表国情咨文演讲 谈及移民、经济和犯罪问题",
+          "url": "https://wallstreetcn.com/livenews/3058499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：明年联邦政府将为无法享受退休计划的人匹配退休金缴纳额。",
+          "url": "https://flash.jin10.com/detail/20260225105638850800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "美国总统特朗普：伊朗还没有同意“不掌握核武器”。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3058321",
           "source": "华尔街见闻-快讯",
@@ -279,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "特朗普：关税提振了股市，道琼斯指数提前突破5万点大关。 最高法院关于关税的裁决非常令人遗憾。",
+          "url": "https://wallstreetcn.com/livenews/3058496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
@@ -298,7 +519,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -325,6 +546,28 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普：呼吁国会把最惠国价格写入法律。",
+          "url": "https://flash.jin10.com/detail/20260225105558594800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普：最高法院的裁决令人遗憾 关税政策将继续实施",
+          "url": "https://flash.jin10.com/detail/20260225105523124800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
           "url": "https://wallstreetcn.com/livenews/3058339",
           "source": "华尔街见闻-快讯",
@@ -334,6 +577,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们将始终捍卫社会安全。",
+          "url": "https://flash.jin10.com/detail/20260225105523072800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：我正确预测了经济走势，而许多经济学家却判断失误。",
+          "url": "https://flash.jin10.com/detail/20260225105512859800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         },
         {
           "title": "特朗普政府被1000多家企业起诉",
@@ -347,6 +612,50 @@
           "time_info": "04时46分"
         },
         {
+          "title": "美国总统特朗普：已经就数据中心能源的新缴费承诺进行了谈判。",
+          "url": "https://flash.jin10.com/detail/20260225105452500800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：没有通胀，经济“巨大”增长。",
+          "url": "https://flash.jin10.com/detail/20260225105415364800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：告诉大型科技公司，它们需要对自己的电力供应负责。",
+          "url": "https://flash.jin10.com/detail/20260225105407977800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普：美国石油产量上升。 天然气产量处于历史最高水平。 从委内瑞拉获得了超过8000万桶石油。 委内瑞拉是美国的新伙伴和朋友。",
+          "url": "https://wallstreetcn.com/livenews/3058482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
           "url": "https://flash.jin10.com/detail/20260225004034013800",
           "source": "金十数据",
@@ -358,6 +667,72 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普：这本应该是我的第三个任期。",
+          "url": "https://flash.jin10.com/detail/20260225105303607800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普：股市创下历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3058481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美国总统特朗普：曾“敲诈”美国的国家如今正支付数千亿美元。",
+          "url": "https://flash.jin10.com/detail/20260225105240202800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普：低利率将解决房地产市场问题。 抵押贷款利率为四年来最低。 想保护房价，就保持房价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3058478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "市场消息：特朗普称牛肉价格开始大幅下降，并敦促人们保持耐心。",
+          "url": "https://flash.jin10.com/detail/20260225105137536800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "特朗普在国情咨文讲话中称通胀 “大幅回落”，并大力宣扬经济增长成果。 特朗普称，我们已压低核心通胀率。 特朗普宣扬低汽油价格。",
+          "url": "https://wallstreetcn.com/livenews/3058476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
           "url": "https://flash.jin10.com/detail/20260225022141993800",
           "source": "金十数据",
@@ -367,215 +742,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时41分]"
         },
         {
-          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 06时41分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 05时42分]"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时40分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260225013329714800",
+          "title": "美国总统特朗普：想停止向大型保险公司支付所有款项；保险公司已经变得很富有，且它们的股价还飙升。",
+          "url": "https://flash.jin10.com/detail/20260225105030903800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时40分]"
-        },
-        {
-          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
-          "url": "https://wallstreetcn.com/livenews/3058334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时42分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050547207800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050527378800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
-          "url": "https://wallstreetcn.com/livenews/3058355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
-          "url": "https://flash.jin10.com/detail/20260225050111394800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3058353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260225013325111800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "德债收益率在美股盘初短暂地拉升",
-          "url": "https://wallstreetcn.com/livenews/3058277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "11时11分"
         },
         {
-          "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3058348",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普宣布已兑现油气钻探承诺",
+          "url": "https://flash.jin10.com/detail/20260225105007932800",
+          "source": "金十数据",
           "ranks": [
-            11
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时42分"
+          "time_info": "11时11分"
         },
         {
-          "title": "数字货币市场在美股早盘反弹",
-          "url": "https://wallstreetcn.com/livenews/3058269",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：正在应对医疗保健的沉重成本。",
+          "url": "https://flash.jin10.com/detail/20260225104843331800",
+          "source": "金十数据",
           "ranks": [
-            13
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "11时11分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -589,6 +794,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时09分 ~ 07时40分]"
+        },
+        {
+          "title": "伊朗一军用直升机坠毁",
+          "url": "https://www.douyin.com/hot/2410332",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 11时11分]"
+        },
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 11时11分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -605,30 +838,15 @@
           "time_info": "[00时09分 ~ 07时40分]"
         },
         {
-          "title": "伊朗一军用直升机坠毁",
-          "url": "https://www.douyin.com/hot/2410332",
-          "source": "抖音",
+          "title": "媒体：伊朗即将购入中国超音速反舰导弹",
+          "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            17,
-            18,
-            15
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时40分]"
-        },
-        {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 07时40分]"
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 11时11分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -653,6 +871,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时46分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 11时11分]"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -779,8 +1008,212 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时41分]"
+        },
+        {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 06时41分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时09分 ~ 05时42分]"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时09分 ~ 11时11分]"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 11时11分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260225013329714800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时40分]"
+        },
+        {
+          "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
+          "url": "https://wallstreetcn.com/livenews/3058334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时42分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050547207800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050527378800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（2月24日），美国科技股七巨头（Magnificent 7）指数涨1.10%，报197.92点，美股盘初V形反转，北京时间23:30以来高位持稳。 “超大”市值科技股指数涨1.81%，报368.94点。",
+          "url": "https://wallstreetcn.com/livenews/3058355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 AMD大涨超8%",
+          "url": "https://flash.jin10.com/detail/20260225050111394800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3058353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260225013325111800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "德债收益率在美股盘初短暂地拉升",
+          "url": "https://wallstreetcn.com/livenews/3058277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3058348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "数字货币市场在美股早盘反弹",
+          "url": "https://wallstreetcn.com/livenews/3058269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -793,6 +1226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时46分]"
+        },
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 11时11分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -894,6 +1338,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时52分 ~ 07时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月25日（周三）上海金早盘价为1147.79元/克，较国际金价(1144.76元/克)，高3.03元/克",
+          "url": "https://flash.jin10.com/detail/20260225110107331800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         }
       ]
     },
