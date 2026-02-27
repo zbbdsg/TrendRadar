@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:53:04.018401+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-02-27T18:49:06.798044+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -13,17 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 07时38分]"
-        },
-        {
-          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
-          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -38,8 +27,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时39分 ~ 18时49分]"
+        },
+        {
+          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
+          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时39分 ~ 17时53分]"
+          "time_info": "[00时01分 ~ 07时38分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -81,6 +81,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时01分 ~ 07时38分]"
+        },
+        {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 18时49分]"
         },
         {
           "title": "美媒说美国将在谈判中向伊朗提出强硬要求",
@@ -175,19 +189,6 @@
           "time_info": "[04时47分 ~ 05时40分]"
         },
         {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 17时53分]"
-        },
-        {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059722",
           "source": "华尔街见闻-快讯",
@@ -246,6 +247,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "伊朗前总统Ayatollah Khatami表示，伊朗政权不会接受暂停铀浓缩活动。（更正：非伊朗最高领袖哈梅内伊）",
+          "url": "https://flash.jin10.com/detail/20260227181323772800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "据伊朗国家电视台：美国代表团参加伊朗问题会谈的车辆离开会场。",
           "url": "https://flash.jin10.com/detail/20260227023314779800",
           "source": "金十数据",
@@ -255,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "加拿大再次要求其公民立即撤离伊朗",
+          "url": "https://wallstreetcn.com/livenews/3060216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗拒绝向国外转移浓缩铀",
@@ -279,6 +302,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "美驻以大使警告使团：美袭击伊朗迫在眉睫，今天就离开以色列",
+          "url": "https://flash.jin10.com/detail/20260227181043243800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
           "url": "https://wallstreetcn.com/livenews/3059687",
           "source": "华尔街见闻-快讯",
@@ -288,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "加拿大再次要求其公民立即撤离伊朗",
+          "url": "https://flash.jin10.com/detail/20260227181037975800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美国参议院共和党领袖图恩：若美国对伊朗采取行动，目标应是实现政权更迭。",
@@ -356,6 +401,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "伊朗军方称将对美国侵略行为予以“毁灭性”回应",
+          "url": "https://wallstreetcn.com/livenews/3060200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐与威特科夫的会晤仅限于握手和礼节。",
           "url": "https://flash.jin10.com/detail/20260227021855722800",
           "source": "金十数据",
@@ -365,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "市场消息：伊朗方面表示，谈判的成功与否取决于对方的诚意和务实精神。",
+          "url": "https://flash.jin10.com/detail/20260227180012487800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗外长阿拉格齐：双方都需要与其各自首都（领导人）进行磋商。",
@@ -535,7 +602,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -564,8 +631,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[07时38分 ~ 18时49分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -595,6 +662,18 @@
           "time_info": "[00时01分 ~ 07时38分]"
         },
         {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时07分 ~ 18时49分]"
+        },
+        {
           "title": "特朗普2026国会演讲全解析",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -606,16 +685,40 @@
           "time_info": "15时07分"
         },
         {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227181757598800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时49分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时49分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -664,30 +767,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时51分 ~ 15时07分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时53分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时53分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -1230,7 +1309,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -1296,7 +1375,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -1441,8 +1520,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 18时49分]"
         }
       ]
     },
