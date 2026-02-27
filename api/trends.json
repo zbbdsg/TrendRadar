@@ -1,11 +1,339 @@
 {
-  "generated_at": "2026-02-28T01:42:40.799490+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-02-28T02:56:20.919007+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
+          "url": "https://flash.jin10.com/detail/20260228011403179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
+          "url": "https://wallstreetcn.com/livenews/3060471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
+        },
+        {
+          "title": "市场消息：特朗普表示，他未考虑为2026年中期选举宣布进入国家紧急状态。",
+          "url": "https://flash.jin10.com/detail/20260228023319874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：关税已对诺华产生影响，并促使其杰出的领导人、医学博士瓦桑特·纳拉辛汉建设7个以上的制造和研发设施，创造了数以千计的就业岗位。激进左派以及那些就关税提起诉讼的“狂人”对此拒而不谈，但数百家其他公司也正在发生同样的情况。",
+          "url": "https://flash.jin10.com/detail/20260228023117307800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
+          "url": "https://wallstreetcn.com/livenews/3060466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格正在大幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3060465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
+          "url": "https://flash.jin10.com/detail/20260228022930909800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3060463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普称可能“友好接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260228022540020800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
+          "url": "https://wallstreetcn.com/livenews/3060457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判，并警告“有时候不得不打”",
+          "url": "https://wallstreetcn.com/livenews/3060456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普喊话购房者：再等等就能获得非常低的利率",
+          "url": "https://wallstreetcn.com/livenews/3060453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普在最高法院败诉后，面临2000起关税诉讼",
+          "url": "https://flash.jin10.com/detail/20260228002715996800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "美国总统特朗普谈及贷款利率，声称：下降速度非常快。",
+          "url": "https://wallstreetcn.com/livenews/3060452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普重申伊朗不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3060451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普称，周五预计将举行更多伊朗相关谈判。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3060450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "特朗普在Truth Social上发布的FTC信件显示，FTC主席称，近期有报道指出，苹果(AAPL.O)Apple News系统性地推广来自左倾新闻媒体的报道，同时压制来自更为保守出版物的新闻文章。",
+          "url": "https://flash.jin10.com/detail/20260228002113568800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
+          "url": "https://flash.jin10.com/detail/20260228001824218800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
+          "url": "https://flash.jin10.com/detail/20260228020911978800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格正在大幅下降。",
+          "url": "https://flash.jin10.com/detail/20260228020904700800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及与爱泼斯坦案件相关的文件，宣称）我已经被证明无罪。",
+          "url": "https://wallstreetcn.com/livenews/3060446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
+          "url": "https://flash.jin10.com/detail/20260228001656802800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "美国总统特朗普：尚未就伊朗问题做决定。 对他们的谈判方式不满意。 他们正在与我们对话。 伊朗不能拥有核武器。 伊朗并没有说出那句关键的话——不发展核武器。",
+          "url": "https://wallstreetcn.com/livenews/3060445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：我们在石油方面运气好极了。",
+          "url": "https://flash.jin10.com/detail/20260228020707510800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "美国总统特朗普：或许我们会友好地接管古巴。",
+          "url": "https://wallstreetcn.com/livenews/3060444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -15,8 +343,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -26,8 +354,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "提醒在伊朗的中国公民尽快撤离",
@@ -37,8 +365,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "伊朗危!提醒中国公民撤离",
@@ -48,8 +376,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -59,8 +387,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
+        },
+        {
+          "title": "中国驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
+          "url": "https://wallstreetcn.com/livenews/3060474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://www.toutiao.com/trending/7611299804274507827/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "伊朗外交部：伊朗外交部对巴基斯坦与阿富汗两国人民以及两国穆斯林之间局势趋紧深表遗憾，对由此对地区安全与人道局势造成的影响表示关切，并呼吁立即采取措施加以应对，以制止紧张局势升级并推动局势恢复正常",
@@ -69,9 +420,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "中国驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
+          "url": "https://flash.jin10.com/detail/20260228023802237800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "希腊建议本国公民避免前往伊朗和巴以地区",
@@ -94,8 +456,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -106,19 +468,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://www.toutiao.com/trending/7611299804274507827/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
@@ -129,8 +480,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "美国 伊朗",
@@ -140,8 +491,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "IAEA：无法确认伊朗核活动",
@@ -151,19 +502,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
+        },
+        {
+          "title": "伊斯坦布尔机场数据显示，周五从伊斯坦布尔飞往伊朗德黑兰的三班航班被取消。",
+          "url": "https://flash.jin10.com/detail/20260228022657908800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -223,113 +586,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3060437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
-          "url": "https://flash.jin10.com/detail/20260228011403179800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时42分"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
-        },
-        {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
-        },
-        {
-          "title": "特朗普在最高法院败诉后，面临2000起关税诉讼",
-          "url": "https://flash.jin10.com/detail/20260228002715996800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "特朗普在Truth Social上发布的FTC信件显示，FTC主席称，近期有报道指出，苹果(AAPL.O)Apple News系统性地推广来自左倾新闻媒体的报道，同时压制来自更为保守出版物的新闻文章。",
-          "url": "https://flash.jin10.com/detail/20260228002113568800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
-          "url": "https://flash.jin10.com/detail/20260228001824218800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
-          "url": "https://flash.jin10.com/detail/20260228001656802800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -342,8 +598,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -353,8 +609,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         },
         {
           "title": "OpenAI高管Nick Turley：ChatGPT日活用户已突破9亿，付费订阅用户达5000万。",
@@ -370,6 +626,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
+          "url": "https://www.cls.cn/detail/2297724",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -381,8 +654,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时56分]"
         }
       ]
     }
